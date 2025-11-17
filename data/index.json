@@ -1,0 +1,15 @@
+{
+  "format": 3,
+  "revision": "2025-11-17",
+  "sequenced": true,
+  "author": "Kaikki-to-Yomitan contributors",
+  "url": "https://github.com/idmbull/dictionary",
+  "description": "Vietnamese bilingual dictionary generated via Google Sheets.",
+  "attribution": "https://kaikki.org/",
+  "sourceLanguage": "en",
+  "targetLanguage": "vi",
+  "title": "idm",
+  "isUpdatable": true,
+  "indexUrl": "https://github.com/idmbull/dictionary/releases/latest/download/index.json",
+  "downloadUrl": "https://github.com/idmbull/dictionary/releases/latest/download/idm-dic.zip"
+}
