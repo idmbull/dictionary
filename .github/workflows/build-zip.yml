@@ -1,0 +1,29 @@
+name: Build idm-dic.zip when /data changes
+
+on:
+  push:
+    paths:
+      - "data/**"        # Chỉ chạy khi có file trong /data thay đổi
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Create ZIP file (idm-dic.zip)
+        run: |
+          cd data
+          zip -r ../idm-dic.zip . -x "*.git*" 
+
+      - name: Commit ZIP back to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add idm-dic.zip
+          git commit -m "Auto build idm-dic.zip" || echo "No changes"
+          git push
