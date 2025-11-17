@@ -1,0 +1,76 @@
+name: Build Yomitan Dictionary
+
+on:
+  push:
+    paths:
+      - "data/**"       # chỉ chạy khi thư mục /data thay đổi
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # bắt buộc để tạo release & upload asset
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Build ZIP (idm-dic.zip)
+        run: |
+          cd data
+          zip -r ../idm-dic.zip . -x "*.git*"
+
+      - name: Generate SHA256 checksum
+        run: |
+          sha256sum idm-dic.zip > idm-dic.zip.sha256
+
+      - name: Generate index.json
+        run: |
+          DOWNLOAD_URL="https://github.com/idmbull/dictionary/releases/latest/download/idm-dic.zip"
+          INDEX_URL="https://github.com/idmbull/dictionary/releases/latest/download/index.json"
+          REVISION=$(date +%Y-%m-%d)
+
+          cat > index.json <<EOF
+{
+  "format": 3,
+  "revision": "$REVISION",
+  "sequenced": true,
+  "author": "Kaikki-to-Yomitan contributors",
+  "url": "https://github.com/idmbull/dictionary",
+  "description": "Vietnamese bilingual dictionary generated via Google Sheets.",
+  "attribution": "https://kaikki.org/",
+  "sourceLanguage": "en",
+  "targetLanguage": "vi",
+  "title": "idm",
+  "isUpdatable": true,
+  "indexUrl": "$INDEX_URL",
+  "downloadUrl": "$DOWNLOAD_URL"
+}
+EOF
+
+      - name: Create or Update Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest release
+          draft: false
+          prerelease: false
+          files: |
+            idm-dic.zip
+            idm-dic.zip.sha256
+            index.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated index.json (optional)
+        run: |
+          cp index.json data/index.json
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/index.json || echo "nothing to add"
+          git commit -m "Update local index.json" || echo "no commit"
+          git push || echo "no push"
