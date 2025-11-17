@@ -3,14 +3,14 @@ name: Build Yomitan Dictionary
 on:
   push:
     paths:
-      - "data/**"       # chỉ chạy khi thư mục /data thay đổi
+      - "data/**"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # bắt buộc để tạo release & upload asset
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -33,10 +33,10 @@ jobs:
           INDEX_URL="https://github.com/idmbull/dictionary/releases/latest/download/index.json"
           REVISION=$(date +%Y-%m-%d)
 
-          cat > index.json <<EOF
+          cat > index.json << 'EOF'
 {
   "format": 3,
-  "revision": "$REVISION",
+  "revision": "__REVISION__",
   "sequenced": true,
   "author": "Kaikki-to-Yomitan contributors",
   "url": "https://github.com/idmbull/dictionary",
@@ -46,10 +46,14 @@ jobs:
   "targetLanguage": "vi",
   "title": "idm",
   "isUpdatable": true,
-  "indexUrl": "$INDEX_URL",
-  "downloadUrl": "$DOWNLOAD_URL"
+  "indexUrl": "__INDEXURL__",
+  "downloadUrl": "__DOWNLOADURL__"
 }
 EOF
+
+          sed -i "s|__REVISION__|$REVISION|g" index.json
+          sed -i "s|__DOWNLOADURL__|$DOWNLOAD_URL|g" index.json
+          sed -i "s|__INDEXURL__|$INDEX_URL|g" index.json
 
       - name: Create or Update Release
         id: create_release
