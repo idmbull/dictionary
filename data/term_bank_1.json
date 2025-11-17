@@ -131,10 +131,10 @@
     ""
   ],
   [
-    "sa",
+    "sea",
     "",
     "",
-    "",
+    "noun",
     0,
     [
       {
@@ -167,7 +167,7 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "sa"
+                        "content": "nghĩa của see"
                       }
                     ]
                   }
@@ -183,7 +183,7 @@
             "content": [
               {
                 "tag": "a",
-                "href": "https://vi.wiktionary.org/wiki/sa#English",
+                "href": "https://vi.wiktionary.org/wiki/sea#English",
                 "content": "Wiktionary"
               }
             ]
