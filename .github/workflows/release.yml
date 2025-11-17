@@ -3,7 +3,7 @@ name: Build Yomitan Dictionary
 on:
   push:
     paths:
-      - "data/**"
+      - "data/**"     # Chạy khi bất kỳ file nào trong /data thay đổi, trừ index.json cũ
 
 jobs:
   build:
@@ -13,22 +13,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository (with write permissions)
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build ZIP (idm-dic.zip)
-        run: |
-          cd data
-          zip -r ../idm-dic.zip . -x "*.git*"
-
-      - name: Generate SHA256 checksum
-        run: |
-          sha256sum idm-dic.zip > idm-dic.zip.sha256
-
-      - name: Generate index.json (Yomitan format)
+      - name: Generate index.json (Yomitan metadata)
         run: |
           REVISION=$(date +%Y-%m-%d)
           DOWNLOAD_URL="https://github.com/idmbull/dictionary/releases/latest/download/idm-dic.zip"
@@ -48,7 +39,16 @@ jobs:
             \"isUpdatable\": true,
             \"indexUrl\": \"$INDEX_URL\",
             \"downloadUrl\": \"$DOWNLOAD_URL\"
-          }" > index.json
+          }" > data/index.json
+
+      - name: Build ZIP (idm-dic.zip)
+        run: |
+          cd data
+          zip -r ../idm-dic.zip . -x "*.git*"
+
+      - name: Generate SHA256 checksum
+        run: |
+          sha256sum idm-dic.zip > idm-dic.zip.sha256
 
       - name: Create or Update Release (latest)
         uses: softprops/action-gh-release@v1
@@ -60,17 +60,6 @@ jobs:
           files: |
             idm-dic.zip
             idm-dic.zip.sha256
-            index.json
+            data/index.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit index.json back to /data
-        run: |
-          cp index.json ./data/index.json
-
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add ./data/index.json
-          git commit -m "Update index.json in repo" || echo "No changes to commit"
-          git push || echo "No push"
