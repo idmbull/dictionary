@@ -131,10 +131,10 @@
     ""
   ],
   [
-    "ALO",
+    "ahh",
     "",
     "",
-    "noun",
+    "",
     0,
     [
       {
@@ -176,73 +176,6 @@
             ]
           },
           {
-            "tag": "ol",
-            "data": {
-              "content": "glosses"
-            },
-            "content": [
-              {
-                "tag": "li",
-                "content": [
-                  {
-                    "tag": "div",
-                    "content": [
-                      "bi?n ??ng d? d?i, b?o tr?n bi?n"
-                    ]
-                  },
-                  {
-                    "tag": "div",
-                    "content": [
-                      {
-                        "tag": "details",
-                        "data": {
-                          "content": "details-entry-examples"
-                        },
-                        "content": [
-                          {
-                            "tag": "summary",
-                            "data": {
-                              "content": "summary-entry"
-                            },
-                            "content": "1 examples"
-                          },
-                          {
-                            "tag": "div",
-                            "data": {
-                              "content": "extra-info"
-                            },
-                            "content": {
-                              "tag": "div",
-                              "data": {
-                                "content": "example-sentence"
-                              },
-                              "content": [
-                                {
-                                  "tag": "div",
-                                  "data": {
-                                    "content": "example-sentence-a"
-                                  },
-                                  "content": "in stormy seas"
-                                },
-                                {
-                                  "tag": "div",
-                                  "data": {
-                                    "content": "example-sentence-b"
-                                  },
-                                  "content": ""
-                                }
-                              ]
-                            }
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "tag": "div",
             "data": {
               "content": "backlink"
@@ -250,7 +183,7 @@
             "content": [
               {
                 "tag": "a",
-                "href": "https://vi.wiktionary.org/wiki/ALO#English",
+                "href": "https://vi.wiktionary.org/wiki/ahh#English",
                 "content": "Wiktionary"
               }
             ]
