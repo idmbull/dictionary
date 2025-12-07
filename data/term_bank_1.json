@@ -36,7 +36,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "Nghĩa đen chỉ những vùng biển có thời tiết xấu, gió mạnh, sóng to và biển động rất nguy hiểm. Nghĩa bóng dùng để mô tả những tình huống khó khăn, thử thách, hoặc giai đoạn khó khăn trong cuộc sống, giống như việc phải vượt qua những cơn bão dữ ngoài biển khơi."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Nghĩa đen chỉ những vùng biển có thời tiết xấu, gió mạnh, sóng to và biển động rất nguy hiểm. Nghĩa bóng dùng để mô tả những tình huống khó khăn, thử thách, hoặc giai đoạn khó khăn trong cuộc sống, giống như việc phải vượt qua những cơn bão dữ ngoài biển khơi."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -167,7 +172,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "giếng nước hoặc bể nước có cầu thang dài dẫn xuống mực nước, phổ biến ở miền Tây Ấn Độ từ thế kỷ 7 đến thế kỷ 19. Chúng được thiết kế để khai thác nước ngầm ổn định quanh năm trong những vùng khí hậu khô cằn. Các bước thang dẫn xuống lòng đất giúp tiếp cận mực nước thay đổi theo mùa mưa và hạn hán. Ngoài chức năng cấp nước cho sinh hoạt, rửa ráy, tưới tiêu, stepwells còn tạo ra không gian mát mẻ, yên tĩnh tránh nóng cho người qua lại."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "giếng nước hoặc bể nước có cầu thang dài dẫn xuống mực nước, phổ biến ở miền Tây Ấn Độ từ thế kỷ 7 đến thế kỷ 19. Chúng được thiết kế để khai thác nước ngầm ổn định quanh năm trong những vùng khí hậu khô cằn. Các bước thang dẫn xuống lòng đất giúp tiếp cận mực nước thay đổi theo mùa mưa và hạn hán. Ngoài chức năng cấp nước cho sinh hoạt, rửa ráy, tưới tiêu, stepwells còn tạo ra không gian mát mẻ, yên tĩnh tránh nóng cho người qua lại."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -250,7 +260,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "bắt nguồn từ triết lý chủ nghĩa thực dụng (utilitarianism) nghĩa là sản phẩm hoặc thiết kế utilitarian không nhất thiết phải đẹp, nhưng phải phục vụ tốt mục đích sử dụng, bền bỉ, tiết kiệm và dễ dàng duy trì."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "bắt nguồn từ triết lý chủ nghĩa thực dụng (utilitarianism) nghĩa là sản phẩm hoặc thiết kế utilitarian không nhất thiết phải đẹp, nhưng phải phục vụ tốt mục đích sử dụng, bền bỉ, tiết kiệm và dễ dàng duy trì."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -776,7 +791,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "(enigma - noun, enigmatic - adj, enigmatically - adverb) mô tả những thứ có bản chất hoặc ý nghĩa không rõ ràng hoặc khó hiểu."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "(enigma - noun, enigmatic - adj, enigmatically - adverb) mô tả những thứ có bản chất hoặc ý nghĩa không rõ ràng hoặc khó hiểu."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -907,7 +927,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "đấu tranh, chiến đấu với một khó khăn, vấn đề hoặc sức mạnh khó chịu, hoặc vật lộn trong tư tưởng, suy nghĩ sâu sắc về điều gì đó."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "đấu tranh, chiến đấu với một khó khăn, vấn đề hoặc sức mạnh khó chịu, hoặc vật lộn trong tư tưởng, suy nghĩ sâu sắc về điều gì đó."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -1614,7 +1639,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "xem thêm ignored, abandoned"
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "xem thêm ignored, abandoned"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -2617,7 +2647,20 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "Please (v): làm hài lòng<br>Pleasure (n): sự thích thú; Pleasantness (tính dễ chịu); Pleasantry (lời nói vui vẻ, chỉ trò đùa dí dóm)<br>Pleasantly (adv): một cách dễ chịu"
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Please (v): làm hài lòng"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "Pleasure (n): sự thích thú; Pleasantness (tính dễ chịu); Pleasantry (lời nói vui vẻ, chỉ trò đùa dí dóm)"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "Pleasantly (adv): một cách dễ chịu"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -2748,7 +2791,12 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "add (thêm vào, cộng vào)"
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "add (thêm vào, cộng vào)"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -2975,7 +3023,16 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "seasoning là gia vị dùng trong chế biến.<br>Spice chỉ các loại gia vị từ thảo mộc hoặc thực vật như ớt, quế, gừng có vị cay hoặc mùi thơm mạnh, thường dùng trong chế biến và làm seasoning."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "seasoning là gia vị dùng trong chế biến."
+                          },
+                          {
+                            "tag": "div",
+                            "content": "Spice chỉ các loại gia vị từ thảo mộc hoặc thực vật như ớt, quế, gừng có vị cay hoặc mùi thơm mạnh, thường dùng trong chế biến và làm seasoning."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -3058,7 +3115,20 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "seasoning là gia vị dùng trong chế biến.<br>Spice chỉ các loại gia vị từ thảo mộc hoặc thực vật như ớt, quế, gừng có vị cay hoặc mùi thơm mạnh, thường dùng trong chế biến và làm seasoning.<br>condiment thường là gia vị hay nước chấm dùng trong lúc ăn."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "seasoning là gia vị dùng trong chế biến."
+                          },
+                          {
+                            "tag": "div",
+                            "content": "Spice chỉ các loại gia vị từ thảo mộc hoặc thực vật như ớt, quế, gừng có vị cay hoặc mùi thơm mạnh, thường dùng trong chế biến và làm seasoning."
+                          },
+                          {
+                            "tag": "div",
+                            "content": "condiment thường là gia vị hay nước chấm dùng trong lúc ăn."
+                          }
+                        ]
                       }
                     ]
                   }
@@ -3189,7 +3259,24 @@
                         "data": {
                           "content": "Etymology-content"
                         },
-                        "content": "playfully (adv) của playful<br>play (n)<br>player (n)<br>playable (adj): mang tính có thể chơi được."
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "playfully (adv) của playful"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "play (n)"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "player (n)"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "playable (adj): mang tính có thể chơi được."
+                          }
+                        ]
                       }
                     ]
                   }
