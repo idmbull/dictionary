@@ -5072,7 +5072,7 @@
                   {
                     "tag": "div",
                     "content": [
-                      "sắp xếp, thu xếp mọi thứ để việc gì đó diễn ra"
+                      "sắp xếp (organize tổ chức mang tính hệ thống)"
                     ]
                   }
                 ]
@@ -7003,54 +7003,6 @@
     ""
   ],
   [
-    "expect",
-    "",
-    "",
-    "v",
-    0,
-    [
-      {
-        "type": "structured-content",
-        "content": [
-          {
-            "tag": "ol",
-            "data": {
-              "content": "glosses"
-            },
-            "content": [
-              {
-                "tag": "li",
-                "content": [
-                  {
-                    "tag": "div",
-                    "content": [
-                      "mong đợi, kỳ vọng"
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "tag": "div",
-            "data": {
-              "content": "backlink"
-            },
-            "content": [
-              {
-                "tag": "a",
-                "href": "https://vi.wiktionary.org/wiki/expect#English",
-                "content": "Wiktionary"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    0,
-    ""
-  ],
-  [
     "appoint",
     "",
     "",
@@ -8476,6 +8428,4958 @@
               {
                 "tag": "a",
                 "href": "https://vi.wiktionary.org/wiki/all%20of%20a%20sudden#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "occupation",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "nghề nghiệp (trang trọng hơn job)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/occupation#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "knee",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "đầu gối"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/knee#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "take",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "dùng, uống (thuốc)"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "take vitamins"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "uống vitamin"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/take#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "vacation",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "kỳ nghỉ (= holiday)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/vacation#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "conference",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "hội nghị, hội thảo"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "conference hotel"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "khách sạn được thiết kế để tổ chức hội nghị, hội thảo"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/conference#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "presentation",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "bài thuyết trình (present: trình bày, giới thiệu)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/presentation#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "projector",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "máy chiếu"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/projector#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "exhibition",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "triển lãm"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/exhibition#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "atrium",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "sảnh lớn / giếng trời (thường ở giữa tòa nhà, thông thoáng)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/atrium#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "presume",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "presume = chắc là đúng"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "assume = tạm cho là đúng"
+                          },
+                          {
+                            "tag": "div",
+                            "content": "suppose = nghĩ đại khái"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "đoán là (dựa trên logic / kinh nghiệm, gần như chắc)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/presume#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "accommodation",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "chỗ ở (khách sạn, phòng nghỉ)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/accommodation#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "attendee",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "người tham dự sự kiện"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/attendee#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "facials",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "chăm sóc da mặt"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/facials#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "anniversary",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "ngày kỷ niệm"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "wedding anniversary"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "kỷ niệm ngày cưới"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/anniversary#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "hire",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thuê (trong thời gian ngắ)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/hire#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "appreciate",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "đánh giá cao (dùng để bày tỏ sự biết ơn hoặc nhận ra giá trị của một việc làm.)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/appreciate#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "terrace",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "sân thượng / sân ngoài trời liền với tòa nhà"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/terrace#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "entertainment",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "hoạt động giải trí (âm nhạc, biểu diễn…)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/entertainment#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "recipe",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "công thức nấu ăn"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/recipe#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "reputation",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "danh tiếng"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/reputation#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "appropriate",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "When a thing is appropriate, it is right or normal."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "phù hợp, thích hợp"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/appropriate#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "avoid",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To avoid something is to stay away from it."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "tránh, tránh xa"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/avoid#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "behave",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To behave is to act in a particular way, especially to be good."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "cư xử, hành xử"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/behave#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "calm",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "When someone is calm, they do not get excited or upset."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "bình tĩnh, điềm tĩnh"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/calm#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "concern",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Concern is a feeling of worry."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "sự lo lắng, mối quan tâm"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/concern#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "content",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To be content is to be happy and not want more."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "hài lòng, mãn nguyện"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/content#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "expect",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "If you expect something to happen, you believe it will happen."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "mong đợi, kỳ vọng"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/expect#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "frequently",
+    "",
+    "",
+    "adverb",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "When something happens frequently, it happens often."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thường xuyên"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/frequently#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "habit",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "A habit is a thing that you do often."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thói quen"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/habit#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "instruct",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To instruct is to teach."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "hướng dẫn, chỉ dạy"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/instruct#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "issue",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "An issue is an important topic."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "vấn đề"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/issue#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "none",
+    "",
+    "",
+    "pronoun",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "None means not any of something."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "không một ai"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "none of the people"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": ""
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/none#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "patient",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "If people are patient, they don't become angry or upset easily."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "kiên nhẫn, nhẫn nại"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/patient#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "positive",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "If something is positive, it is good."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "tích cực, tốt"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/positive#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "punish",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To punish means to make someone suffer for breaking the rules or laws."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "trừng phạt"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/punish#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "represent",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To represent is to speak or act for a person or group."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "đại diện"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/represent#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "shake",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To shake is to move back and forth or up and down quickly."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "lắc, rung"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/shake#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "spread",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To spread is to move out to cover a larger area."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "lan truyền"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/spread#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "stroll",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "To stroll means to walk slowly and calmly."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "đi dạo"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/stroll#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "village",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "A village is a very small town."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "làng, ngôi làng"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/village#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "bite",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "cắn (chó cắn người)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/bite#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "discuss",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Nói chuyện về một chủ đề cụ thể để trao đổi ý kiến, tìm giải pháp hoặc đưa ra quyết định."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thảo luận (Discuss something with someone: Thảo luận việc gì với ai.)"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "2 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "We need to discuss the new project."
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Chúng ta cần thảo luận về dự án mới."
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "I will discuss the contract with my lawyer."
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Tôi sẽ bàn bạc hợp đồng với luật sư của tôi."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/discuss#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "secretary",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thư ký (dùng trong ngữ cảnh văn phòng)"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "the club secretary"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "thư ký câu lạc bộ (chịu trách nhiệm xử lý thư từ, sắp xếp lịch hẹn, nghe điện thoại và hỗ trợ công việc hành chính)"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "Bộ trưởng (trong chính phủ Mỹ)"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "Secretary of State"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Bộ trưởng Ngoại giao"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/secretary#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "ordinary",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "chỉ những điều diễn ra theo lẽ tự nhiên, đúng như mong đợi, hoặc những người dân bình thường (không phải quan chức hay người nổi tiếng)."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "bình thường, thông thường"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "It was just an ordinary day."
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Đó chỉ là một ngày bình thường như bao ngày khác."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/ordinary#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "cycling",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "the sport or activity of riding a bicycle"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/cycling#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "recreational",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "mô tả một hoạt động, nghĩa là hoạt động đó được thực hiện vào thời gian rảnh rỗi để tận hưởng niềm vui, xả stress, chứ không phải vì mục đích kiếm tiền hay công việc chuyên môn."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "mang tính chất giải trí, tiêu khiển"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "recreational activities"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "hoạt động giải trí"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/recreational#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "quarterly",
+    "",
+    "",
+    "adverb",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Daily → Weekly → Monthly → Quarterly → Annually / Yearly"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "hàng quý"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "We pay interest quarterly."
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Chúng tôi trả lãi suất hàng quý/3 tháng một lần."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/quarterly#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "insurance",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "bảo hiểm"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "2 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "Travel insurance"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "bảo hiểm du lịch"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "Life insurance"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "bảo hiểm nhân thọ"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/insurance#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "permit ",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "cho phép (Permit someone to do something; lịch sự hơn allow)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/permit%20#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "fitness",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thể trạng, thể lực"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/fitness#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "novice",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "Dùng để chỉ ai đó mới học một kỹ năng hoặc mới tham gia một lĩnh vực nào đó và chưa thành thạo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "trang trọng hơn Beginner"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/novice#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "reckon",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "think (dùng phổ biến trong khẩu ngữ ở Anh)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/reckon#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "session",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "một khoảng thời gian dành riêng cho một hoạt động cụ thể nào đó."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "Buổi, Phiên, Kỳ, Khóa."
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "Training session"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Buổi đào tạo/huấn luyện."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/session#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "afterwards",
+    "",
+    "",
+    "adverb",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "chỉ một hành động diễn ra sau khi một sự kiện khác đã kết thúc."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "sau đó"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "We had a nice dinner. Afterwards, we went for a walk."
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Chúng tôi đã ăn tối rất ngon. Sau đó, chúng tôi đi dạo."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/afterwards#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "similar",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "tương tự (giống nhau nhưng không phải y hệt)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/similar#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "set out",
+    "",
+    "",
+    "phrasal verb",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "div",
+            "content": [
+              {
+                "tag": "div",
+                "data": {
+                  "content": "preamble"
+                },
+                "content": [
+                  {
+                    "tag": "details",
+                    "data": {
+                      "content": "details-entry-Etymology"
+                    },
+                    "content": [
+                      {
+                        "tag": "summary",
+                        "data": {
+                          "content": "summary-entry"
+                        },
+                        "content": "Etymology"
+                      },
+                      {
+                        "tag": "div",
+                        "data": {
+                          "content": "Etymology-content"
+                        },
+                        "content": [
+                          {
+                            "tag": "div",
+                            "content": "to leave a place and begin a journey"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "khởi hành, xuất phát"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/set%20out#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "advice",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "lời khuyên"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/advice#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "mention",
+    "",
+    "",
+    "v",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "nhắc đến ((thường là ngắn gọn, không đi sâu chi tiết)"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/mention#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "suburb",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "vùng ngoại ô"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/suburb#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "reasonable",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "mang tính hợp lý"
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "content": [
+                      {
+                        "tag": "details",
+                        "data": {
+                          "content": "details-entry-examples"
+                        },
+                        "content": [
+                          {
+                            "tag": "summary",
+                            "data": {
+                              "content": "summary-entry"
+                            },
+                            "content": "1 examples"
+                          },
+                          {
+                            "tag": "div",
+                            "data": {
+                              "content": "extra-info"
+                            },
+                            "content": {
+                              "tag": "div",
+                              "data": {
+                                "content": "example-sentence"
+                              },
+                              "content": [
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-a"
+                                  },
+                                  "content": "A reasonable price"
+                                },
+                                {
+                                  "tag": "div",
+                                  "data": {
+                                    "content": "example-sentence-b"
+                                  },
+                                  "content": "Một mức giá phải chăng."
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/reasonable#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "nightmare",
+    "",
+    "",
+    "n",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "cơn ác mộng"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/nightmare#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "hardly",
+    "",
+    "",
+    "adverb",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "almost no; almost not; almost none"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/hardly#English",
+                "content": "Wiktionary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    0,
+    ""
+  ],
+  [
+    "preferable",
+    "",
+    "",
+    "adj",
+    0,
+    [
+      {
+        "type": "structured-content",
+        "content": [
+          {
+            "tag": "ol",
+            "data": {
+              "content": "glosses"
+            },
+            "content": [
+              {
+                "tag": "li",
+                "content": [
+                  {
+                    "tag": "div",
+                    "content": [
+                      "thích hợp hơn"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "data": {
+              "content": "backlink"
+            },
+            "content": [
+              {
+                "tag": "a",
+                "href": "https://vi.wiktionary.org/wiki/preferable#English",
                 "content": "Wiktionary"
               }
             ]
